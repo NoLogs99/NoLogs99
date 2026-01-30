@@ -6,9 +6,7 @@
 
 <br>
 
-<h1 align="center">
-    Skills
-</h1>
+<h1>Skills</h1>
 
 <h3>Programming Languages:</h3>
 
@@ -32,6 +30,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 
