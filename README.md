@@ -3,10 +3,15 @@
     𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     <img src="assets/gif/Hi.gif" width="40px" />
 </h1>
+
 <br>
+
 <h1 align="center">
     Skills
 </h1>
+
 <br>
-<h2>Programming Languages</h2>
+
+<h3>Programming Languages</h2>
+
 
