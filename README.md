@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-    <div>Skills</div>
+    Skills
 </h1>
 
 
