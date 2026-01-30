@@ -7,3 +7,6 @@
 <h1 align="center">
     Skills
 </h1>
+<br>
+<h2>Programming Languages</h2>
+
