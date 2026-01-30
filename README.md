@@ -35,7 +35,8 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoLogs99&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC134&layout=compact&theme=dracula)
+
 
 
 
