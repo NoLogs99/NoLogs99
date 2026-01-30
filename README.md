@@ -4,6 +4,6 @@
     <img src="assets/gif/Hi.gif" width="40px" />
 </h1>
 <br>
-<h3>
-    <b>Skills</b>
-</h3>
+<h1 align="center">
+    Skills
+</h1>
