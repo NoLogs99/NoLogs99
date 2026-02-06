@@ -1,10 +1,14 @@
+<style>
+    
+</style>
+
 <h1 align="center">
     <img src="assets/gif/Earth.gif" width="24px"/>
     𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     <img src="assets/gif/Hi.gif" width="40px" />
 </h1>
 
-<h2>Skills</h2>
+<div align="center">Skills</div>
 
 <h3>Programming Languages:</h3>
 
@@ -28,6 +32,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 
